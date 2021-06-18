@@ -1,0 +1,58 @@
+ ->   Big O notation -> assymtotic notation that calcualte the overall behaviour of an algorithm.
+
+
+ ->   to check execution time of a java program.
+    long start = System.curretTimeMillis();
+    lond end = System.curretTimeMillis() - start;
+
+ ->   INSERTION SORT--O(n^2)
+    insertionSort()
+    {
+        for(i=1; i<arr.length; i++)
+        {
+            int key = arr[i];
+            int j= i-1;
+            while( j>0 && key<arr[j] )
+            {
+                arr[j+1] = arr[j];
+                j--;
+            }
+            arr[j+1] = key;
+        }
+    }
+
+ ->   for generating a random test data
+    import java.util.Random;
+    public static void randomFill(int[] data, int max)
+    {
+        Random gen = new Random();
+        for(i=0;i<data.length;i++)
+        {  
+            data[i] = gen.nextInt(max);         //generates Integers from 0 to max-1
+        }
+    }
+
+ ->   SELECTION SORT--O(n^2)
+    find the smallest element in the array and swap with the first element of unsorted array.
+    selectionSort()
+    {
+        for(i=0; i<arr.length; i++)
+        {
+            key=arr[i];
+            pos=i;
+            for(j=i+1; j<arr.length; j++)
+            {
+                if(arr[j] < key)
+                {
+                    key = arr[j];
+                    pos=j;
+                }
+            }
+            arr[pos] = arr[i];
+            arr[i] = key;
+        }
+    }
+
+ ->   LINEAR SEARCH--O(n)
+ ->   BINARY SEARCH--O(log n)   due to divide and conquer  that is- O(k) for n=2^key
+ 

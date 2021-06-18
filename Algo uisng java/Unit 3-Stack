@@ -1,0 +1,58 @@
+DS - STACK - LIFO
+
+Oper    ations- push(), pop();
+Functions
+    boolean isEmpty()  - true/false.
+    int peek()  -  return element at top without popping.
+    int pop()  -  removes item from top.
+    void push(int item)  -  adds item at top.
+    int size()  - returns size of stack.
+
+
+
+ADT(Abstract Data Type)  -  defines the operation of a data type.
+means the operation is defined under a interface  beforehand. we just need to perform the operation.
+It implenets abstraction.
+
+
+Interfaces defined contains method declarations.
+To define our own stack inrerface we must create it like this:
+Ex - Stack interface
+
+    public interface IntStack
+    {
+        boolean isEmpty();
+        int peek();
+        int pop();
+        void push(int item);
+        int size();
+    }
+Now, classes implements interface.
+Syntax: public class Classname implements InterfaceName 
+        {
+            ....
+        }
+
+
+
+                                    -----PRE- DEFINED STACK-----
+
+Stack class is provided by the java.util package.
+Stack extends the Vector class and implements the functionality of Stack data structure.
+            Stack -extends-> Vector --implements--> List -extends-> Collection -extends->Iterable.
+        Stack class inherits the Vector class which in turn implements the List interface of Collection interface.
+
+
+    import java.util.Stack;
+    Stack st = new Stack();
+            OR
+    Stack<data type> st = new Stack<data type>;
+    ex: Stack<Integer> st = new Stack<>();
+    st.push(10);
+    int value = st.pop();
+    int value = st.peek();
+    boolean b = st.isEmpty();   //true if empty else false
+    int index = st.search(value);   //returns index of value. indexing starts from 1 and it is of the top element.
+    int size = st.size();   //returns size of the stack
+
+

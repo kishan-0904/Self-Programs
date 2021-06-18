@@ -1,0 +1,17 @@
+Complexity
+    1. Omega - how good the code will run in best case
+    2. Theta - how good the code will run in avg. case
+    3. Big-O - in worst case scenario
+    and by keeping this in mind, we always program our code for the worst and hope for the best.
+
+
+FROM BEST -> WORST
+O(1) -> O(log n) -> O(n) -> O(nlog n) -> O(n^2) -> O(2^n) -> O(n!)
+
+
+Rules for code Complexity   
+    1. +, -, *, /, if -> constant time
+    2. memory access -> constant time
+    3. loop, call for subroutine(function/method) -> n steps
+
+

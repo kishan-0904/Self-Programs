@@ -1,0 +1,54 @@
+    field name - class variables. 
+    this.x = x;   -> this.fieldname;
+
+
+    int randomNumber = new Random().nextInt(10) + 1;   //Random number 1-10
+    int randomNumber = new Random().nextInt(6) + 1;    //Random 1-6
+
+
+    static methods - belongs to class; called by class name.
+    non - static methods - belongs to instance of class; called by object.
+
+    String s1;
+    s1.charAt(i);
+    s1.indexOf("a");
+    s1.indexOf("a", n);  -> first index of a starting from n
+    s1.length();
+    s1.substring(4);   -> starting at 4 tilll length
+    s1.substring(4,7);   -> starting at 4 till 7-1
+    s1.toLowerCase(), toUpperCase(), trim()
+
+    String s1,s2;
+    s1.compaerTo(s2);  -> lexicographical comparison; -ve if s1 comes before s2, 0 if equal,  +ve if s1 after s2
+    compaerToIgnoreCase();
+    s1.equals(s2);   ->  true/false
+    equalsIgnoreCase()
+
+
+    int a[] = new int[size];
+    int a[] = {element list};
+
+    a.length;
+
+
+    for(int x : a)   -> for x in a;   copy each element of a in x one by one.
+
+
+    STRING TOEKNS
+    String[] split;  
+    String str="Kishan kr jaiswal"
+    String arr[] = str.split("\\s+");    removes all spaces in between and returns array of strings.
+
+
+    public class can be used by any class.  and should be stored in a file of same name.
+    private visibility provides encapsulation for objects. other classes can only use the public defined functions.
+
+    Constructor used to set up new objects in valid stste,i.e, set up new values.
+    in case of constructor overloading this(arguments) is used to call the required constructors.
+
+    toString() -> used to convert any datatype to string.
+    Integer.toString(5)
+    Long.---
+    Double.---
+    Boolean.toString(true);
+
