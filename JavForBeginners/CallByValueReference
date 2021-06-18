@@ -1,0 +1,29 @@
+Primitive Data Types - Call by Value (Copy is made)
+Reference Data Types - Call by Reference (Original - Reference to an object)
+
+class Test1 {
+    int a, b;
+    void math(int i, int j)
+    {
+        i = i*2;
+        j= j/2;
+    }
+    void meth1(Test o) 
+    {
+        o.a *= 2;
+        o.b /= 2;
+    }
+}
+class CallByValueDemo {
+    public static void main(String args[]) {
+        Test1 t1 = new Test1();
+        int a = 15, b =20;
+        System.out.println("Before : a = " +a ", b = "+b );
+        t1.math(a,b);
+        System.out.println("After : a = " +a ", b = "+b );
+
+
+
+        t1.meth1(t1);  //callByReference
+    }
+}
