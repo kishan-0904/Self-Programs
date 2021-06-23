@@ -1,13 +1,30 @@
-###      Session on UX DESIGNING 
+##      Session on UX DESIGNING 
 ![](https://github.com/kishan-0904/Self-Programs/blob/517a99f606d57a2c5f22b05fd093c725786e092b/WhatsApp%20Video%202021-06-23%20at%208.49.39%20PM.gif)
 
-*Watch it over Youtube By [Clicking Here][video]
+*To Watch it over Youtube [Click Here][video]
 <br>
 To access the Presentation(ppt) [click here][ppt]*
 
+### About Speaker
+𝗣𝗿𝗶𝘆𝗮𝗻𝗸𝗮 𝗦𝘂𝗿𝘆𝗮𝗴𝗮𝗻 is a 𝗨𝘀𝗲𝗿 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵𝗲𝗿 working individually. She is also a 𝘁𝗿𝗮𝗶𝗻𝗲𝗿 𝘄𝗶𝘁𝗵 𝗨𝗫/𝗨𝗜 𝗧𝗿𝗮𝗶𝗻𝗶𝗻𝗴 𝗟𝗮𝗯 and 𝗵𝗮𝘀 𝗱𝗲𝘀𝗶𝗴𝗻𝗲𝗱 & 𝗹𝗲𝗮𝗱𝘀 𝗮 𝗨𝗫 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 𝗰𝗼𝘂𝗿𝘀𝗲 𝗮𝗻𝗱 𝘁𝗿𝗮𝗶𝗻𝘀 𝗽𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹𝘀 with the same. <br>
+**Speakers Profile - [LinkedIn][priyanka]**
+
+<br><br>
+### Want to Connect to us
+
+**Our Social Media Handles : <br>**
+[<img align = "auto" width = "36px" src="https://github.com/kishan-0904/Self-Programs/blob/main/yt.png" />][SYoutube]
+[<img align = "auto" width = "36px" src="https://github.com/kishan-0904/Self-Programs/blob/main/linkedin.png" />][SLinkedin]
+[<img align = "auto" width = "36px" src="https://github.com/kishan-0904/Self-Programs/blob/main/insta.jpg" />][SInsta]
+
+**Intern Labs Founder (Khushal Jhalani) Social Media Handles** <br>
+[<img align = "auto" width = "36px" src="https://github.com/kishan-0904/Self-Programs/blob/main/fb.png" />][fb]
+[<img align = "auto" width = "36px" src="https://github.com/kishan-0904/Self-Programs/blob/main/linkedin.png" />][linkedin]
+[<img align = "auto" width = "36px" src="https://github.com/kishan-0904/Self-Programs/blob/main/insta.jpg" />][insta]
+[<img align = "auto" width = "36px" src="https://github.com/kishan-0904/Self-Programs/blob/main/twitter.png" />][twitter]
 
 
-## Resources
+# Resources
 
 
 
@@ -69,6 +86,22 @@ To access the Presentation(ppt) [click here][ppt]*
 
 
 [video]: https://tinyurl.com/firstUXSession
+
+[priyanka]: https://www.linkedin.com/in/priyanka-suryagan
+
+[Syoutube]: https://tinyurl.com/firstUXSession
+
+[Slinkedin]: https://www.linkedin.com/company/intern-labs/
+
+[Sinsta]: https://www.instagram.com/internlabs/
+
+[linkedin]: https://www.linkedin.com/in/apnakhushal/
+
+[insta]: https://www.instagram.com/apnakhushal/
+
+[twitter]: https://twitter.com/apnakhushal
+
+[fb]: https://www.facebook.com/apnakhushal/
 
 [ppt]: https://tinyurl.com/uxSessionOnePpt
 
