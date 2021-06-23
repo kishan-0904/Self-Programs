@@ -1,3 +1,8 @@
+### Session on UX DESIGNING 
+
+*Watch it over Youtube By [Clicking Here][video]
+<br>
+To access the Presentation(ppt) [click here][ppt]*
 ## Resources
 
 
@@ -59,7 +64,9 @@
 
 
 
+[video]: https://tinyurl.com/firstUXSession
 
+[ppt]: https://tinyurl.com/uxSessionOnePpt
 
 [yt1]: https://youtube.com/c/NNgroup
 
