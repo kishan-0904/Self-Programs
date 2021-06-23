@@ -1,7 +1,7 @@
 ##      Session on UX DESIGNING 
 ![](https://github.com/kishan-0904/Self-Programs/blob/517a99f606d57a2c5f22b05fd093c725786e092b/WhatsApp%20Video%202021-06-23%20at%208.49.39%20PM.gif)
 
-*To Watch it over Youtube [Click Here][video]
+*To Watch it over Youtube [click Here][video]
 <br>
 To access the Presentation(ppt) [click here][ppt]*
 
