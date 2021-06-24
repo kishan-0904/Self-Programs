@@ -89,7 +89,7 @@ To access the Presentation(ppt) [click here][ppt]*
 
 [priyanka]: https://www.linkedin.com/in/priyanka-suryagan
 
-[Syoutube]: https://tinyurl.com/firstUXSession
+[Syoutube]: https://cutt.ly/internLabsYouTubeChannel
 
 [Slinkedin]: https://www.linkedin.com/company/intern-labs/
 
